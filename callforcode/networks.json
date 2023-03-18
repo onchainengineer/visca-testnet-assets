@@ -1,0 +1,16 @@
+{
+  "testnet": {
+    "name": "testnet",
+    "chainID": "callforcode-testnet",
+    "lcd": "http://visca-cfc-testnet-node-001.eastus.cloudapp.azure.com:1317",
+    "api": "http://visca-cfc-testnet-node-001.eastus.cloudapp.azure.com:26657",
+    "hive": "https://8085-terramoney-hivegraph-gv2lpy89haj.ws-us90.gitpod.io/graphql",
+    "walletconnectID": 0
+  },
+  "localhub": {
+    "name": "localhub",
+    "chainID": "localhub",
+    "lcd": "http://localhost:1317",
+    "mantle": "http://localhost:1337"
+  }
+}
